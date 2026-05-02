@@ -35,17 +35,17 @@ Apply the migration files of the created app to the database
 Execute Django admin using localhost and create details for 10 entries
 
 ## PROGRAM
-```
+'''
 njjjjjjjjjjjjjjjjjjjjjjj
 h
 hhhh
 hhhh
-```
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+'''
 
 
 ## OUTPUT
 ![alt text](apple.jpg)
 
-g
 ## RESULT
 Thus the program for creating Online Food Delivery Database using ORM hass been executed successfully
